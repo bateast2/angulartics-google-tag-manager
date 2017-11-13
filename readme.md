@@ -1,4 +1,4 @@
-## angulartics-google-tag-manager
+## angulartics-google-tag-manager-fork
 
 [![NPM version][npm-image]][npm-url] [![NPM downloads][npm-downloads-image]][npm-downloads-url] [![Bower version][bower-image]][bower-url] [![Dependencies status][dep-status-image]][dep-status-url] [![MIT license][license-image]][license-url] [![Join the Slack chat][slack-image]][slack-url]
 
@@ -13,7 +13,7 @@ Then you can install this package either with `npm` or with `bower`.
 ### npm
 
 ```shell
-npm install angulartics-google-tag-manager
+npm install angulartics-google-tag-manager-fork
 ```
 
 Then add `angulartics.google.tagmanager` as a dependency for your app:
@@ -23,7 +23,7 @@ require('angulartics')
 
 angular.module('myApp', [
   'angulartics', 
-  require('angulartics-google-tag-manager')
+  require('angulartics-google-tag-manager-fork')
 ]);
 ```
 
@@ -32,13 +32,13 @@ angular.module('myApp', [
 ### bower
 
 ```shell
-bower install angulartics-google-tag-manager
+bower install angulartics-google-tag-manager-fork
 ```
 
 Add the `<script>` to your `index.html`:
 
 ```html
-<script src="/bower_components/angulartics-google-tag-manager/dist/angulartics-google-tag-manager.min.js"></script>
+<script src="/bower_components/angulartics-google-tag-manager-fork/dist/angulartics-google-tag-manager.min.js"></script>
 ```
 
 Then add `angulartics.google.tagmanager` as a dependency for your app:

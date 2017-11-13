@@ -1,5 +1,5 @@
 {
-  "name": "angulartics-google-tag-manager",
+  "name": "angulartics-google-tag-manager-fork",
   "version": "0.1.0",
   "description": "Google Tag Manager plugin for Angulartics",
   "keywords": [
@@ -20,13 +20,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/angulartics/angulartics-google-tag-manager.git"
+    "url": "git+https://github.com/bateast2/angulartics-google-tag-manager.git"
   },
   "bugs": {
-    "url": "https://github.com/angulartics/angulartics-google-tag-manager/issues"
+    "url": "https://github.com/bateast2/angulartics-google-tag-manager/issues"
   },
   "license": "MIT",
-  "homepage": "https://github.com/angulartics/angulartics-google-tag-manager",
+  "homepage": "https://github.com/bateast2/angulartics-google-tag-manager",
   "peerDependencies": {
     "angulartics": "^1.0.0"
   },

@@ -1,8 +1,9 @@
 {
-  "name": "angulartics-google-tag-manager",
-  "homepage": "https://github.com/angulartics/angulartics-google-tag-manager",
+  "name": "angulartics-google-tag-manager-fork",
+  "homepage": "https://github.com/bateast2/angulartics-google-tag-manager",
   "contributors": [
-    "Jared Dickson <code@jareddickson.con>"
+    "Jared Dickson <code@jareddickson.con>",
+	"Bateast2 <bateast2@gmail.com>"
   ],
   "description": "Google Tag Manager plugin for Angulartics",
   "main": "lib/angulartics-google-tag-manager.js",
