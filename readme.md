@@ -246,6 +246,7 @@ Additional documentation is available on the [Angulartics site](http://angularti
 ## Development
 
 ```shell
+npm install rimraf -g
 npm run build
 ```
 
